@@ -29,9 +29,9 @@
   url = "#teaching"
   weight = 50
 [[main]]
-  name = "Interests"
-  url = "#interests"
-  weight = 60
+  name = "Hobbies"
+  url = "#hobbies"
+  weight = 150
 
 
 # Link to a PDF of your resume/CV from the menu.
