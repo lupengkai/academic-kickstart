@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: M.S. of Math
+role: Master candidate of Math
 
 # Organizations/Affiliations
 organizations:
@@ -18,24 +18,21 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+#interests:
+#- Artificial Intelligence
+#- Computational Linguistics
+#- Information Retrieval
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.Sc in Operations Research & Cybernetics
+    institution: Zhejiang University
+    year: 2017
+  - course: B.Sc in Mathematics & Applied Mathematics
+    institution: Sichuan University
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -45,15 +42,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+#- icon: twitter
+ # icon_pack: fab
+  #link: https://twitter.com/GeorgeCushen
+#- icon: google-scholar
+ # icon_pack: ai
+  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: github
+ # icon_pack: fab
+  #link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,6 +67,18 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a third-year master student of Department of Mathematical Sciences, Zhejiang University, majoring in Operations Research & Cybernetics. I am very fortunate to be advised by Professor [Shuping Chen](https://baike.baidu.com/item/%E9%99%88%E5%8F%94%E5%B9%B3/6877?fr=aladdin). Previously, I studied pure mathematics at Sichuan University.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+
+During the graduate stage, I have been doing research on unlicensed taxis detection algorithm based on surveillance data, the main work are as follows:
+
++ Proposing two novel features, “path irregularity” and “time irregularity”, for classifying vehicles.
++ Proposing a trajectory segment algorithm which divides monitoring records of a vehicle into trips.
++ Achieving better accuracy and using less execution time compared with previous work based on real-world data
+
+
+Besides those mentioned above, I also do some projects, like train tickets pre-allocation. Broadly, I am also interested in social network analysis, statistical algorithms and so on. 
+
+
+Last but not least, I am a girl of versatile tastes, like running marathons, calligraphy, playing table tennis and travel. 
+
