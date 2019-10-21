@@ -4,14 +4,14 @@
 title: "Unlicensed Taxi Detection Algorithm Based on Traffic Surveillance Data"
 event: SIGSPATIAL 2019 Worshop on EM-GIS
 event_url: https://sigspatial2019.sigspatial.org/
-location: 
+location:  Holiday Inn at the Mart Plaza，Chicago, Illinois, USA
 address:
-  street:W Mart Center Dr
-  city:Chicago
-  region:Illinois
-  postcode:60654
-  country:USA
-summary:
+  street: 350 W Mart Center Dr
+  city: Chicago
+  region: Illinois
+  postcode: 60654
+  country: USA
+summary: paper presentation
 abstract:
 
 # Talk start and end times.

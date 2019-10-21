@@ -19,42 +19,64 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  #organization = "Scholarships"
+  organization = "Zhejiang University"
   #organization_url = "https://www.coursera.org"
   title = "National Scholarship"
   #url = ""
   #certificate_url = "https://www.coursera.org"
   date_start = "2019-10-19"
   #date_end = ""
-  description =""
+  #description =""
+
+[[item]]
+  organization = "Sichuan University"
+  #organization_url = "https://www.coursera.org"
+  title = "National Encouragement Scholarship • Outstanding Graduates"
+  #url = ""
+  #certificate_url = "https://www.coursera.org"
+  date_start = "2016-12-01"
+  #date_end = ""
+  #description =""
+[[item]]
+  organization = "Sichuan University"
+  #organization_url = "https://www.coursera.org"
+  title = "The Second Prize Scholarship • Outstanding Student"
+  #url = ""
+  #certificate_url = "https://www.coursera.org"
+  date_start = "2015-11-01"
+  #date_end = ""
+  #description =""
+
+[[item]]
+  #organization = "Zhejiang University"
+  #organization_url = "https://www.coursera.org"
+  title = "The First Prize in 8th National College Students Mathematical Competition (Professional Group)"
+  #url = ""
+  #certificate_url = "https://www.coursera.org"
+  date_start = "2016-11-01"
+  #date_end = ""
+  #description =""
+
+
 [[item]]
   organization = "Zhejiang University"
   #organization_url = "https://www.coursera.org"
-  title = "The Guo Zhurui Scholarship"
+  title = "The Guo Zhurui Scholarship • Merit Student • Outstanding Graduate Leader"
   #url = ""
   #certificate_url = "https://www.coursera.org"
   date_start = "2018-12-01"
   #date_end = ""
-  description =""
+  #description =""
+
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  organization = "Sichuan University"
+  #organization_url = "https://www.coursera.org"
+  title = "The First-class Individual Scholarship • Outstanding Student Leader"
+  #url = ""
+  #certificate_url = "https://www.coursera.org"
+  date_start = "2014-11-01"
+  #date_end = ""
+  #description =""
 
 +++

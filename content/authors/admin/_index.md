@@ -70,7 +70,7 @@ user_groups:
 I am a third-year master student of Department of Mathematical Sciences, Zhejiang University, majoring in Operations Research & Cybernetics. I am very fortunate to be advised by Professor [Shuping Chen](https://baike.baidu.com/item/%E9%99%88%E5%8F%94%E5%B9%B3/6877?fr=aladdin). Previously, I studied pure mathematics at Sichuan University.
 
 
-During the graduate stage, I have been doing research on unlicensed taxis detection algorithm based on surveillance data, the main work are as follows:
+During the graduate stage, I have been doing research on unlicensed taxis detection algorithm based on traffic surveillance data, the main work are as follows:
 
 + Proposing two novel features, “path irregularity” and “time irregularity”, for classifying vehicles.
 + Proposing a trajectory segment algorithm which divides monitoring records of a vehicle into trips.
