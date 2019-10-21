@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems Workshops"
-publication_short: "SIGSPATIAL 2019 Worshop on EM-GIS"
+publication_short: "ACM SIGSPATIAL 2019 Worshop on EM-GIS"
 
 abstract: "Unlicensed taxi services severely disrupt traffic management and threaten passengers’ safety. Traditional approaches to detect unlicensed taxis rely highly on manual work like collecting on-site evidence. However, these approaches are ineffective and inefficient. As to address this hardship, we propose an unlicensed taxi detection algorithm using pass-records data collected from surveillance cameras. First, based on spatio-temporal analysis, we propose path irregularity and time irregularity to distinguish commercial vehicles from non-commercial vehicles. Then, we evaluate the algorithm based on the actual vehicle pass-records data of Guiyang. The results show that our algorithm outperforms baselines in terms of accuracy and running time."
 

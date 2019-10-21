@@ -47,7 +47,7 @@ height = "calc(100vh - 70px)"
   align = "left"
 
   #overlay_color = "#000"  # An HTML color value.
-  overlay_img = "writing1.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "writing1.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 [[item]]
   #title = "Table Tennis"
@@ -55,7 +55,7 @@ height = "calc(100vh - 70px)"
   #align = "center"
 
   #overlay_color = "#000"  # An HTML color value.
-  overlay_img = "writing2.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "writing2.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 [[item]]
   title = "Table Tennis"
