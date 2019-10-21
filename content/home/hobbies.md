@@ -42,8 +42,8 @@ height = "calc(100vh - 70px)"
   overlay_img = "marathon2.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 [[item]]
-  title = "Calligraphy"
-  content = "In my leisure time, I like doing calligraphy. Every time I sit down and pick up my pen, I feel the peace and calmness."
+  title = "Engraver's script"
+  content = "In my leisure time, I like writing Engraver's script. Every time I sit down and pick up my pen, I feel the peace and calmness."
   align = "left"
 
   #overlay_color = "#000"  # An HTML color value.
