@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Zhejiang University"
   #organization_url = "https://www.coursera.org"
-  title = "National Scholarship"
+  title = "National Scholarship (TOP 1%, Student's Highest Honor in China)"
   #url = ""
   #certificate_url = "https://www.coursera.org"
   date_start = "2019-10-19"
